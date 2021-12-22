@@ -1,0 +1,15 @@
+#form{
+    display: flex;
+}
+
+#btn {
+    margin-top: 10px;
+}
+#btn2 {
+    margin-top: 10px;
+    margin-left: 7px;
+    background: #17a2b8;
+    border-radius: 10px;
+    border: 5px;
+    color: #FFF;
+}
